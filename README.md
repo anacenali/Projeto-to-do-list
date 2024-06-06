@@ -5,9 +5,9 @@ O projeto projeto To do List foi realizado composto pela seguinte matéria:
 ### Programação web I
 Criamos um web site de uma lista de tarefas, usamos o aplicativo Visual Studio Code.
 ##  Descrição do projeto
-Esse projeto foi pensado para criação de lista de tarefas, para ajudar os estudantes, melhorando sua organização e desempenho. Tudo foi pensado para o estudante conseguir usar com facilidade 
+Esse projeto foi pensado para criação de lista de tarefas, para ajudar os estudantes, melhorando sua organização e desempenho. Tudo foi pensado para o estudante conseguir usar com facilidade.
 ## Imagem do site:
-<img src="Captura de tela 2024-05-16 114051.png" width="50%">
+<img src="TELA.png" width="50%">
 
 ## 🛠️ Tecnologias  
 * HTML
